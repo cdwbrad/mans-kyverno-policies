@@ -28,3 +28,4 @@ bash-5.0$ kustomize build overlays/eval
 ````
 
 ### More testing
+We need to create docs for testing new or modified policies locally.
